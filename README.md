@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ig-automacao
+- 👋 Hi, I’m @ig-automacao , Técnico em Automação industrial ,cursando Eng. de Software
 - 👀 I’m interested in compartilhar alguns trabalhos que desenvolvo.
-- 🌱 I’m currently learning desenvolvimento Web/CSS,Html,Javascript.
+- 🌱 I’m currently desenvolvimento Web/CSS,Html,Javascript,Python / Tia portal,Factory IO, Arduino
 
 
 <!---
